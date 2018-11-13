@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtiltyCasewareIdea", "UtiltyCasewareIdea\UtiltyCasewareIdea.csproj", "{4AA3802C-77B8-454D-8A23-E768AF9D4820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA3802C-77B8-454D-8A23-E768AF9D4820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA3802C-77B8-454D-8A23-E768AF9D4820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA3802C-77B8-454D-8A23-E768AF9D4820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA3802C-77B8-454D-8A23-E768AF9D4820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A2A7C0-A23E-437D-AD67-8C8DC0841B8E}
+	EndGlobalSection
+EndGlobal
